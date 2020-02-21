@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#3F51B5</color>
+	<color name="colorPrimaryDark">#303F9F</color>
+	<color name="colorAccent">#FF4081</color>
+	<color name="colorJudul">#DD3910</color>
+	<color name="colorTombol">#E09616</color>
+	<color name="colorTombol2">#58E60B</color>
+	<color name="colorCyan">#C4CEF5</color>
+	<color name="colorYellow">#F3D01F</color>
+	<color name="colorWhite">#F3F4F7</color>
+</resources>

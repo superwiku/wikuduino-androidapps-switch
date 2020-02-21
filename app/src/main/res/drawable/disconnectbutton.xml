@@ -1,0 +1,13 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Mendefinisikan powerbutton saat di klik -->
+    <item android:drawable="@drawable/disconnectpress"
+        android:state_pressed="true" />
+
+    <!-- Mendefinisikan powerbutton saat terfokus -->
+    <item android:drawable="@drawable/disconnectnorm"
+        android:state_focused="true" />
+
+    <!-- Mendefinisikan powerbutton saat dalam kondisi normal -->
+    <item android:drawable="@drawable/disconnectnorm" />
+</selector>

@@ -1,0 +1,13 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Mendefinisikan powerbutton saat di klik -->
+<item android:drawable="@drawable/buttonspeakclick"
+    android:state_pressed="true" />
+
+    <!-- Mendefinisikan powerbutton saat terfokus -->
+<item android:drawable="@drawable/buttonspeak"
+android:state_focused="true" />
+
+    <!-- Mendefinisikan powerbutton saat dalam kondisi normal -->
+<item android:drawable="@drawable/buttonspeak" />
+    </selector>
